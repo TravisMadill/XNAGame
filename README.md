@@ -1,3 +1,12 @@
+# XNAGAME
+
+This is a game I made as a final project in my Grade 12 programming class.
+
+It uses the now-deprecated XNA framework to run, but the exe files should still be in the debug folders if you want to try it out for yourself.
+
+Because this was an actual project for me, this repository contains some stuff I wouldn't normally include in my usual mini-projects, like flowcharts and detailed comments and an actual readme file.
+
+## Original readme to my programming teacher
 This game is a 2D sidescroller. But instead of running and jumping, you instead run
 and shoot things! By clicking anywhere on screen, you can fire a rocket-bullet and
 use that to defeat enemies. The objective is like any sidescroller, where you try to
