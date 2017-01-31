@@ -1,0 +1,7 @@
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\mainFont.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\XNAGame.exe
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\XNAGame.pdb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\obj\x86\Debug\XNAGame.exe
+C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\obj\x86\Debug\XNAGame.pdb

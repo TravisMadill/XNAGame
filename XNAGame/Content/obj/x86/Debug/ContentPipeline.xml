@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fonts\mainFont.spritefont</Source>
+      <Name>fonts\mainFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\fonts\mainFont.xnb</Output>
+      <Time>2017-01-31T10:17:31.9310088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player.png</Source>
+      <Name>sprites\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\player.xnb</Output>
+      <Time>2013-12-09T16:38:34.5862577-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall.png</Source>
+      <Name>sprites\wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\wall.xnb</Output>
+      <Time>2013-12-09T16:31:04.1452863-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\enemy.png</Source>
+      <Name>sprites\enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\enemy.xnb</Output>
+      <Time>2013-12-02T12:41:46.982439-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\bullet.png</Source>
+      <Name>sprites\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\bullet.xnb</Output>
+      <Time>2013-12-09T16:18:31.7175659-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\nothing.png</Source>
+      <Name>sprites\nothing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\nothing.xnb</Output>
+      <Time>2013-05-07T13:51:14-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gleam.png</Source>
+      <Name>sprites\gleam</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\gleam.xnb</Output>
+      <Time>2013-12-09T16:23:12.064305-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gem.png</Source>
+      <Name>sprites\gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\gem.xnb</Output>
+      <Time>2013-12-04T16:34:28.9553706-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\shinyObj.png</Source>
+      <Name>sprites\shinyObj</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\shinyObj.xnb</Output>
+      <Time>2013-12-08T19:08:12.4050232-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\laser.png</Source>
+      <Name>sprites\laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\laser.xnb</Output>
+      <Time>2013-12-09T16:16:28.1106923-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\button_n.png</Source>
+      <Name>sprites\button_n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\button_n.xnb</Output>
+      <Time>2013-12-09T16:19:42.3602428-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\button_p.png</Source>
+      <Name>sprites\button_p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\button_p.xnb</Output>
+      <Time>2013-12-09T16:20:50.2403379-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\bg_riverside.png</Source>
+      <Name>sprites\bg_riverside</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\bg_riverside.xnb</Output>
+      <Time>2013-12-07T21:41:35.9491684-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\finishSign.png</Source>
+      <Name>sprites\finishSign</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\finishSign.xnb</Output>
+      <Time>2013-12-09T11:34:19.8127229-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_anim1.png</Source>
+      <Name>sprites\player_anim1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\player_anim1.xnb</Output>
+      <Time>2013-12-09T16:41:17.8951003-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_anim2.png</Source>
+      <Name>sprites\player_anim2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\player_anim2.xnb</Output>
+      <Time>2013-12-09T16:41:27.1351133-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_anim3.png</Source>
+      <Name>sprites\player_anim3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\player_anim3.xnb</Output>
+      <Time>2013-12-09T16:43:11.0352589-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_animStill.png</Source>
+      <Name>sprites\player_animStill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\player_animStill.xnb</Output>
+      <Time>2013-12-09T16:44:12.2678446-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\dialogueBox.png</Source>
+      <Name>sprites\dialogueBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\dialogueBox.xnb</Output>
+      <Time>2013-12-10T16:21:32.4879205-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\enemy_sleeper.png</Source>
+      <Name>sprites\enemy_sleeper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\enemy_sleeper.xnb</Output>
+      <Time>2013-12-10T16:42:07.3944417-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\enemy_walker.png</Source>
+      <Name>sprites\enemy_walker</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\enemy_walker.xnb</Output>
+      <Time>2013-12-10T16:43:05.447023-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tut_keys.png</Source>
+      <Name>sprites\tut_keys</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\tut_keys.xnb</Output>
+      <Time>2013-12-10T17:08:05.115933-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tut_clickHereArrows.png</Source>
+      <Name>sprites\tut_clickHereArrows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\tut_clickHereArrows.xnb</Output>
+      <Time>2013-12-10T17:35:26.6732613-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tut_arrowToDeath.png</Source>
+      <Name>sprites\tut_arrowToDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\tut_arrowToDeath.xnb</Output>
+      <Time>2013-12-10T17:56:53.3911844-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\laserGun.png</Source>
+      <Name>sprites\laserGun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\laserGun.xnb</Output>
+      <Time>2013-12-10T19:07:08.0942047-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\click.wav</Source>
+      <Name>sfx\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\click.xnb</Output>
+      <Time>2013-12-11T16:09:34.8243189-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\enemyCollision.wav</Source>
+      <Name>sfx\enemyCollision</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\enemyCollision.xnb</Output>
+      <Time>2013-12-11T16:21:14.0833142-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\jump.wav</Source>
+      <Name>sfx\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\jump.xnb</Output>
+      <Time>2013-12-11T16:16:35.0883566-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\wind.mp3</Source>
+      <Name>sfx\wind</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\wind.xnb</Output>
+      <Extra>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\wind.wma</Extra>
+      <Time>2013-12-11T16:12:43.9711375-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sfx\fire.wav</Source>
+      <Name>sfx\fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sfx\fire.xnb</Output>
+      <Time>2013-12-11T16:24:50.9937208-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\logo.png</Source>
+      <Name>sprites\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\sprites\logo.xnb</Output>
+      <Time>2013-12-27T18:29:59.3137818-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\Unit 12\XNAGame\XNAGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-03T21:01:34.2397437-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
